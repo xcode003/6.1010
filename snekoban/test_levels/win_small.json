@@ -1,0 +1,5 @@
+[
+  [["player"], [], ["wall"]],
+  [["wall"], ["computer"], ["wall"]],
+  [["wall"], ["target"], ["wall"]]
+]
